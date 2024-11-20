@@ -1,0 +1,145 @@
+nav {
+
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  .social-icons {
+    margin-top: 10px;
+  }
+  .telemedicine {
+    padding: 20px;
+    background-color: #e6f7ff;
+  }
+  .video-call-btn {
+    background-color: #0a9396;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer
+  }
+  .prescriptions {
+    padding: 20px;
+  }
+  .refill-btn {
+    background-color: #17a2b8;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .messaging {
+    padding: 20px;
+    background-color: #f9f9f9;;
+  }
+  .message-btn {
+    background-color: #0a9396;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .health-records {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  .view-btn {
+    background-color: #0a9396;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .appointments {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  .appointment-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+  }
+  .manage-btn {
+    background-color: #0a9396;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #e6f7ff;
+  }
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .cta-btn {
+    background-color: #0a9396;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .cta-btn a {
+    list-style: none;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    transition: 0.3s ease;
+  }
+   /* navigation */
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #e6f7ff;
+    position: fixed;
+    width: 90%; 
+    height: 60px; 
+    flex-direction: row;
+    padding: 1vw 9vw;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+    z-index: 999;
+  }
+  .navigation img {
+    width: 250px;
+    cursor: pointer;
+    height: 50px;
+}
+  .navigation ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  .navigation a {
+    text-decoration: none;
+    color: #333;
+  
+  .login-btn {
+    background-color: #6695c9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
